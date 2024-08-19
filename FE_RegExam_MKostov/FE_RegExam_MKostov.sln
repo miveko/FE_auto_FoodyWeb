@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FE_Foody_automation", "FE_Foody_automation\FE_Foody_automation.csproj", "{AE2CA21F-D16E-4D25-9355-9A2A9D39DFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2CA21F-D16E-4D25-9355-9A2A9D39DFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2CA21F-D16E-4D25-9355-9A2A9D39DFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2CA21F-D16E-4D25-9355-9A2A9D39DFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2CA21F-D16E-4D25-9355-9A2A9D39DFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF33ACF5-19FA-4BC4-BFE9-A68315B70EB4}
+	EndGlobalSection
+EndGlobal
